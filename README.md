@@ -1,11 +1,16 @@
 You're an expert Android engineer and product designer. I'm building an Android app that shows full device information, both hardware and software. It should help users view their phone's detailed technical data, similar to apps like CPU-Z, DevCheck, or Device Info HW.
 Help me design and implement an MVP for this app.
+
+
 ---
 ## 🎯 App Name: CoreDroid
 ### ✅ Goal:
 Build a modern Android app using **Jetpack Compose** and **MVVM** (optional: MVI) that displays detailed **device information**, both software and hardware, in a user-friendly, clean layout.
+
 ---
+
 ## 📱 Core MVP Features:
+
 ### 🔋 Battery Info
 - Battery health (cycle count, if accessible)
 - Battery level, status, temperature
